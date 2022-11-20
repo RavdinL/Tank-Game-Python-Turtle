@@ -1,6 +1,6 @@
 # Tank-Game-Python-Turtle
 A little game about tanks like dendy using only Turtle library
-This project uses Turtle library to draw game from pixel. 
+This project uses Turtle library to draw game from pixels. 
 Code is written in Object Oriented style, using some classes. 
 Also there are many different functions to draw and to calculate game things.
 Game is for two players, so there are blue and red team.
